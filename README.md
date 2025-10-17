@@ -96,6 +96,7 @@ app/
 │
 └── java (generated)                    # Auto-generated files
 
+
 🧩 Pending / Future Enhancements
 
 🔜 Profile image upload (camera or gallery)
