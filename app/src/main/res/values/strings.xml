@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Linkora</string>
+    <string name="connect">Connect</string>
+    <string name="skip">Skip</string>
+    <string name="no_more_profiles">No more profiles to show</string>
+    <string name="connected_with">You connected with %s 🚀</string>
+    <string name="filter_all">All</string>
+    <string name="my_connections">My Connections</string>
+    <string name="no_connections">No connections yet</string>
+    <string name="interests">Interests:</string>
+    <string name="domain">Domain:</string>
+</resources>
